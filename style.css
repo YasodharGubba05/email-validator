@@ -4,3 +4,7 @@
     font-weight: 400;
     font-style: italic;
 }
+.header{
+    height: 70px;
+    width: 100vw;
+}
