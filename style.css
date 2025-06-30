@@ -5,7 +5,21 @@
     font-style: italic;
 }
 .header{
-    height: 72px;
+    height: 70px;
     width: 100vw;
+    background-color: lightblue;
 }
-
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.home{
+    margin-left: 1250px;
+}
+.contact{
+    margin-right: 10px;
+}
+.ivalid{
+    margin-left: 10px;
+}
