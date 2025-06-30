@@ -44,3 +44,15 @@
     font-weight: 600;
     margin-left: 200px;
 }
+.btn{
+    margin-top: 20px;
+    margin-left: 200px;
+    background-color: black;
+    color: white;
+    padding:6px;
+    border-radius: 5px;
+}
+.your{
+    margin-top: 20px;
+    margin-left: 200px;
+}
